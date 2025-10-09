@@ -4,12 +4,12 @@
 
 ### About Me
 
-My name is **Javad Hashemzadeh** and I'm a **full-stack web developer and data enthusiast** from **Iran**.  
+My name is **Javad Hashemzadeh** and I'm a **full-stack web developer and data enthusiast** from **Iran**.
 
 ✨ **Creating bugs since:** 2019  
 📚 **I'm currently learning:** Data analysis, machine learning, and game theory  
 🎯 **Goals:** Build scalable full-stack applications and combine economics with AI  
-🎲 **Fun fact:** I love blending **interactive frontend animations** with **robust backend architecture**  
+🎲 **Fun fact:** I love blending **interactive frontend animations** with **robust backend architecture**
 
 ---
 
@@ -18,7 +18,7 @@ My name is **Javad Hashemzadeh** and I'm a **full-stack web developer and data e
 **Frontend:** React, Next.js, TypeScript, TailwindCSS, Framer Motion, Redux, Zustand  
 **Backend:** Node.js, Express, NestJS, PostgreSQL, MySQL  
 **Tools & DevOps:** Git, Docker, GitHub Actions, Cloudinary, MUI, Chakra UI  
-**Data & Analysis:** Python (basics), Statistics, Game Theory, ML concepts  
+**Data & Analysis:** Python (basics), Statistics, Game Theory, ML concepts
 
 ---
 
@@ -56,4 +56,4 @@ My name is **Javad Hashemzadeh** and I'm a **full-stack web developer and data e
 
 ### Snake Animation
 
-<img src="https://raw.githubusercontent.com/jhshz/jhshz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jhshz/jhshz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
