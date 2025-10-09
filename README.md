@@ -56,4 +56,4 @@ My name is **Javad Hashemzadeh** and I'm a **full-stack web developer and data e
 
 ### Snake Animation
 
-<img src="https://raw.githubusercontent.com/jhshz/jhshz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/jhshz/jhshz/blob/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
