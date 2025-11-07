@@ -51,9 +51,3 @@ My name is **Javad Hashemzadeh** and I'm a **full-stack web developer and data e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
 </div>
-
----
-
-### Snake Animation
-
-<img src="https://github.com/jhshz/jhshz/blob/main/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
